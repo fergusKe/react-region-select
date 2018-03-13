@@ -1,6 +1,6 @@
 {
-  "name": "react-template",
-  "homepage": "https://fergusKe.github.io/react-template",
+  "name": "react-region-select",
+  "homepage": "https://fergusKe.github.io/react-region-select",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
